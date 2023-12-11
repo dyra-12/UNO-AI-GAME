@@ -2,7 +2,7 @@
 
 The primary objective of this project is to create a sophisticated Uno AI capable of strategic decision-making, adaptive gameplay, and seamless integration into gaming scenarios.
 
-#Key Points:
+<h3>Key Points:</h3>
 
 #Move Identification Excellence:
 The project places a strong emphasis on the Uno AI's ability to identify optimal moves with precision.
